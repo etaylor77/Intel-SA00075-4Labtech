@@ -2,7 +2,12 @@
 Repo for deploying the Intel SA00075 Detection tool and populating EDF's in Labtech
 
 
-# Beta release v0.1 1/13/2018
+# Beta release v0.2 1/13/2018
+
+v0.2 Changes
+
+ - Added exit if 'VM Machine' flag is set in the database
+ - Fixed spelling error on 'Unpacking Tool' script log
 
 Setup Instructions
 
