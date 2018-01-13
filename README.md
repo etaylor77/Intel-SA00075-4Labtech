@@ -9,7 +9,7 @@ v0.2 Changes
  - Added exit if 'VM Machine' flag is set in the database
  - Fixed spelling error on 'Unpacking Tool' script log
 
-Setup Instructions
+# Setup Instructions
 
  - Import the xml file in Labtech folder into your Labtech Server
    - This should put two scripts in your root scripts folder
@@ -19,7 +19,7 @@ Setup Instructions
 # Still Working On
 
  - A monitor to alert and create a ticket based on the EDF's populated
- - Add exclustions for VM guest machines
  - Adding remediation EDF's and scripts to resolve this issue
+ - Adding monitor to remove application on any vm guest
 
 
