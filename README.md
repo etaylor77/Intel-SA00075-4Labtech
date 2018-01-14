@@ -2,13 +2,12 @@
 Repo for deploying the Intel SA00075 Detection tool and populating EDF's in Labtech
 
 
-# Beta release v0.3 1/13/2018
+# Beta release v0.5 1/13/2018
 
-v0.3 Changes
+v0.5 Changes
 
- - Added delete function for the Deskop link installed by the tool (Thanks Jeremy Roe)
- - Fixed AMT EDF not being populated by the script
- - Added Intel SA00075 Monitor
+ - Added support for 32bit OS for both Install and Run Tool script.
+ - Changed Monitor Query 
 
 # Setup Instructions
 
@@ -28,6 +27,13 @@ v0.3 Changes
  
  
  # Update History
+
+ v0.3 Changes
+
+ - Added delete function for the Deskop link installed by the tool (Thanks Jeremy Roe)
+ - Fixed AMT EDF not being populated by the script
+ - Added Intel SA00075 Monitor
+
  
 v0.2 Changes
 
