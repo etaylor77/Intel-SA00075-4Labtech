@@ -15,6 +15,8 @@ v0.3 Changes
  - Import the xml file in Labtech folder into your Labtech Server
    - This should put two scripts in your root scripts folder
    - This should add EDF's in the info section of your agent's computer screen
+ - Import the sql file in Monitors folder to create the monitor
+   - This is just to monitor the "status" EDF
    
    
 # Still Working On
